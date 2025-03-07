@@ -10,21 +10,18 @@ This application is a fully responsive UI kit featuring an interactive dashboard
 - **React Router DOM**
 
 ## Demo 🎥  
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]
+[![Watch the video](https://vimeo.com/1063613198/2c3ece4354)]
 
 ## Screenshots 🖼️ 
 ![Dashboard](public/screenshots/screenshot1.png)
+![Dashboard](public/screenshots/screenshot2.png)
+![Dashboard](public/screenshots/screenshot3.png)
+![Dashboard](public/screenshots/screenshot4.png)
+![Dashboard](public/screenshots/screenshot5.png)
+![Dashboard](public/screenshots/screenshot6.png)
+![Dashboard](public/screenshots/screenshot7.png)
+![Dashboard](public/screenshots/screenshot8.png)
+![Dashboard](public/screenshots/screenshot9.png)
+![Dashboard](public/screenshots/screenshot10.png)
+![Dashboard](public/screenshots/screenshot11.png)
 
-
-
-
-
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
