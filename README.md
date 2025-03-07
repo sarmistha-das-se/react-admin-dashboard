@@ -10,7 +10,7 @@ This application is a fully responsive UI kit featuring an interactive dashboard
 - **React Router DOM**
 
 ## Demo 🎥  
-[![Watch the video](https://vimeo.com/1063613198/2c3ece4354)]
+[Watch the Demo Video on Vimeo](https://vimeo.com/1063613198/2c3ece4354)
 
 ## Screenshots 🖼️ 
 ![Dashboard](public/screenshots/screenshot1.png)
