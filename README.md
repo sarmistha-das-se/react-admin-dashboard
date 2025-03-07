@@ -1,6 +1,24 @@
-# React + Vite
+# React Admin Dashboard  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This application is a fully responsive UI kit featuring an interactive dashboard. It includes various charts such as pie charts, line charts, bar charts, and area charts for data visualization. Additionally, it offers a profile settings page for user customization.  
+
+## Technologies Used 🚀  
+- **React.js**  
+- **Tailwind CSS**  
+- **Framer Motion**  
+- **Recharts**  
+- **React Router DOM**
+
+## Demo 🎥  
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]
+
+## Screenshots 🖼️ 
+![Dashboard](public/screenshots/screenshot1.png)
+
+
+
+
+
 
 Currently, two official plugins are available:
 
